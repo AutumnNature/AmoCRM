@@ -1,0 +1,118 @@
+.header__link{
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+    transition: 0.5s;
+}
+.header__link:hover{
+    color:#FAC422;
+}
+.button__link{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 18px;
+
+    color: white;
+}
+
+.sub{
+    font-size: 16px;
+    color:#57B8FF;
+    font-weight: 400;
+
+}
+.title{
+    font-size: 72px;
+    color:#fff;
+    font-weight: 400;
+    line-height: 86px;
+}
+.title-2{
+    font-size: 64px;
+    color:#fff;
+    font-weight: 400;
+    line-height: 74px;
+}
+.description{
+    font-size: 18px;
+    color:#999999;
+    font-weight: 400;
+    line-height: 28px;
+}
+.hero__items-item-button{
+    font-size: 18px;
+    color:#fff;
+    font-weight: 400;
+
+
+}
+.hero__items-item-button a{
+    font-size: 18px;
+    color:#fff;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.Customize__items .description{
+    font-size: 20px;
+    color:#999999;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    /*white-space: pre;*/
+}
+
+.news__title-item a{
+    font-size: 17px;
+    color:#fff;
+    font-weight: 400;
+    font-family: 'Orbitron', sans-serif;
+}
+.news__box-time{
+    font-size: 18px;
+    color:#57B8FF;
+    font-weight: 400;
+    font-family: 'Orbitron', sans-serif;
+}
+.news__box-subtitle{
+    font-size: 24px;
+    color:#fff;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+}
+.news__box-subtitle.main{
+    font-size:  36px;
+    color:#fff;
+    font-weight: 400;
+    line-height: 46px;
+    text-align: left;
+}
+.footer-description{
+    font-size: 15px;
+    color:#999999;
+    font-weight: 400;
+    line-height: 28px;
+}
+.footer-link.first{
+    font-size:  18px;
+    color:#fff;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+}
+
+.footer-link{
+    font-size:  15px;
+    color:#999999;
+    font-weight: 400;
+    line-height: 37px;
+    text-align: left;
+}
+
+.social_media-item p{
+    font-size:  10px;
+    color:#999999;
+    font-weight: 400;
+    /*line-height: 37px;*/
+    text-align: left;
+    transform: rotate(180deg)
+}
